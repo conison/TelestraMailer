@@ -8,6 +8,7 @@
   },
   "dependencies": {
     "nodemailer": "latest",
-    "express": "latest"
+    "express": "latest",
+    "nodemon": "^1.18.11"
   }
 }
